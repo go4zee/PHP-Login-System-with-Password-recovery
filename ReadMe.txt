@@ -4,3 +4,4 @@ Incorporates an account activation system with a code and verification link sent
 
 Includes a password recovery system to reset the password by authorizing a code to the user's email.
 
+Created with Bootstrap
